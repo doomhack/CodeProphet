@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Views">
+      <UniqueIdentifier>{014734c2-f867-4429-b192-92a9567ca434}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NewProjWiz">
+      <UniqueIdentifier>{1ad6b268-f56b-47ea-a39c-72a107d57bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Views">
+      <UniqueIdentifier>{4acc1122-bc0f-485a-ae06-a907eef2633a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NewProjWiz">
+      <UniqueIdentifier>{f4bb2662-ca9e-476e-8e97-3c15af5451dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\NewProjWiz">
+      <UniqueIdentifier>{54e6ce4b-431d-49f0-99ca-0be6ae123331}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CallGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeProphetView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeProphetViewDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeProphetViewView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LCPrint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadProgress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewProject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoResolve.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PDBFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CallerCalleeTabView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="CallerCalleeView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassTabView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ColumnTreeCtrl.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ColumnTreeView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionListTabView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionListView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="HotPathTabView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="HotPathView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ProfileSummaryView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="NewProjWiz.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_0_1.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_1_1.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_2_1.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_2_2.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_3_1.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_4_1.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_4_2.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+    <ClCompile Include="NPW_5_1.cpp">
+      <Filter>Source Files\NewProjWiz</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CallGraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeProphetView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeProphetViewDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeProphetViewView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColumnTreeCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColumnTreeView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IFunctionResolve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LCPrint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadProgress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewProject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoResolve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PDBFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CallerCalleeTabView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="CallerCalleeView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassTabView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionListTabView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionListView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="HotPathTabView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="HotPathView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ProfileSummaryView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWizPage.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NewProjWiz.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_0_1.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_1_1.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_2_1.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_2_2.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_3_1.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_4_1.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_4_2.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="NPW_5_1.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+    <ClInclude Include="Pages.h">
+      <Filter>Header Files\NewProjWiz</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\classview.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CodeProphetView.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CodeProphetViewDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Splash.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\SideBar.bmp">
+      <Filter>Resource Files\NewProjWiz</Filter>
+    </Image>
+    <Image Include="res\wiz_icon.bmp">
+      <Filter>Resource Files\NewProjWiz</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CodeProphetView.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\CodeProphetView.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CodeProphetView.reg" />
+  </ItemGroup>
+</Project>

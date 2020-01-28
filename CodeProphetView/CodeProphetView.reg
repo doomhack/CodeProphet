@@ -1,0 +1,40 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document]
+@="CodeProphetView.Document"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\DefaultIcon]
+@="C:\\PROGRA~1\\CodeProphet\\CodeProphetView.exe,1"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell]
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\open]
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\open\command]
+@="C:\\PROGRA~1\\CodeProphet\\CodeProphetView.exe /dde"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\open\ddeexec]
+@="[open(\"%1\")]"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\print]
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\print\command]
+@="C:\\PROGRA~1\\CodeProphet\\CodeProphetView.exe /dde"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\print\ddeexec]
+@="[print(\"%1\")]"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\printto]
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\printto\command]
+@="C:\\PROGRA~1\\CodeProphet\\CodeProphetView.exe /dde"
+
+[HKEY_CLASSES_ROOT\CodeProphetView.Document\shell\printto\ddeexec]
+@="[printto(\"%1\",\"%2\",\"%3\",\"%4\")]"
+
+[HKEY_CLASSES_ROOT\.cpv]
+@="CodeProphetView.Document"
+
+[HKEY_CLASSES_ROOT\.cpv\ShellNew]
+"NullFile"=""
+

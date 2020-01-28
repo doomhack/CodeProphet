@@ -1,0 +1,17 @@
+TODO list:
+
+Lib:
+[all] Add code to namespace.
+[all] Write data to new file, not overwrite existing.
+[all] Add method to Start, Stop and Change data output location.
+
+CodeProphetView:
+[feature] Add Printing support.
+[bug] Function list view not being redrawn properly.
+[feature] Add export data. (XML, CSV)
+[feature] Add function properties page.
+[feature] Add Help system.
+[feature] Source Code Viewer.
+
+Setup:
+[feature] Add lib paths to VS2005, VS2008.
